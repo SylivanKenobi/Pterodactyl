@@ -449,7 +449,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "boomerang.kicad_pro",
+    "filename": "pterodactyl.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -630,7 +630,7 @@
   "sheets": [
     [
       "661a5138-bd0a-482c-94a0-3faab3b705a5",
-      ""
+      "Root"
     ]
   ],
   "text_variables": {}

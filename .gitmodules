@@ -7,3 +7,6 @@
 [submodule "kiCad/Molex.pretty"]
 	path = kiCad/Molex.pretty
 	url = https://github.com/ai03-2725/Molex-0548190589.pretty
+[submodule "kiCad/keebio-components"]
+	path = kiCad/keebio-components
+	url = https://github.com/keebio/keebio-components.git

@@ -80,6 +80,7 @@
         "footprint_type_mismatch": "error",
         "hole_clearance": "error",
         "hole_near_hole": "ignore",
+        "holes_co_located": "warning",
         "invalid_outline": "error",
         "isolated_copper": "warning",
         "item_on_disabled_layer": "error",
@@ -449,7 +450,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "pterodactyl.kicad_pro",
+    "filename": "pteranodon.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -513,8 +514,8 @@
       "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
-      "svg": "",
+      "step": "pteranodon-center.step",
+      "svg": "3dmodels",
       "vrml": ""
     },
     "page_layout_descr_file": ""
